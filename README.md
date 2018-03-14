@@ -1,5 +1,6 @@
 # FrozenBug
-## A computer aided programming software for Linux Subsystem on Windows 10
+
+A computer aided programming software for Linux Subsystem on Windows 10
 
 ### Demo
 ![FrozenBug](images/fbug0.png)
