@@ -2,12 +2,6 @@
 
 A computer aided programming software for Linux Subsystem on Windows 10
 
-### Demo
-![FrozenBug](images/fbug0.png)
-
-![FrozenBug](images/fbug1.png)
-
-![FrozenBug](images/fbug2.png)
 
 ### Installation & Usage
 
@@ -26,3 +20,11 @@ sudo /opt/lampp/xampp restart
 5. Download FrozenBug and put it into the working directory.
 6. Open your browser and visit the page `http://localhost/`.
 7. Input command and Debug! Have fun.
+
+
+### Demo
+![FrozenBug](images/fbug0.png)
+
+![FrozenBug](images/fbug1.png)
+
+![FrozenBug](images/fbug2.png)
