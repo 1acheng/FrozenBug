@@ -17,7 +17,10 @@ A computer aided programming software for Linux Subsystem on Windows 10
 ```Bash
 sudo /opt/lampp/xampp restart
 ```
-5. Download FrozenBug and put it into the working directory.
+5. Download FrozenBug and put it into the working directory with sufficient privileges.
+```Bash
+sudo chmod 777 -R THE_WORKING_DIRECTORY
+```
 6. Open your browser and visit the page `http://localhost/`.
 7. Input command and Debug! Have fun.
 
